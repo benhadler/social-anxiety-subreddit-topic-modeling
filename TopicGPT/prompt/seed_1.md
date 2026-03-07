@@ -1,0 +1,1 @@
+[1] School: Discusses experiences, interactions, or situations related to educational settings.

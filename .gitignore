@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*Zone.Identifier
+*Copy.Identifier
+*Zone.Identifier*
+*.identifier
+*:Zone.Identifier

@@ -1,0 +1,13 @@
+name: nlp_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - spacy
+  - gensim
+  - matplotlib
+  - jupyterlab
+  - nltk
+  - pyldavis
+  - bertopic
+prefix: /home/benh/miniconda3/envs/nlp_env

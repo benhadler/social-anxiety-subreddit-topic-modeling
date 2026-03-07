@@ -1,0 +1,121 @@
+You will receive a branch from a topic hierarchy along with some documents assigned to the top-level topic of that branch. Your task is to identify generalizable second-level topics that can act as subtopics to the top-level topic in the provided branch. Add your topic(s) if they are missing from the provided branch. Otherwise, return the existing relevant or duplicate topics. 
+
+[Example] (Return "[2] Retail Shopping" (new) and "[2] Eye Contact" (existing) as the subtopics of "[1] Social Skills" (provided).)
+Topic branch:
+[1] Social Skills
+    [2] Eye Contact
+    [2] Phone Calls
+
+Document 1: 
+Title: Shopping with social anxiety sucks 
+Post: Everytime I go into the shops on my own I can feel my heart beating really fast and I start to heat up, I feel like everybody is starring at me and judging me for some reason. It really sucks and I've been like this for the longest time. I constantly pretend I'm doing something on my phone to avoid eye contact with people. Like today I had to pick up an order from Sanity (DVD & CD store) and I was fine up until I walked into the shops and once I saw the crowds of people I started panicking inside. I'm 17 and feel like I will never get over my social anxiety, it's really bad and I feel like I'm the only one I know who's dealing with this other than people I've talked to online 
+
+Comment from polerpop: I feel the same way and it does suck a lot. I’m a little bit older than you and I should be doing a lot of stuff independently but I just can’t sometimes
+
+Comment from unicorn_eclipse17: I know what you mean I hope you overcome it someday it's honestly ruined my life
+
+Comment from polerpop: I always knew when I was in HS that I would have a major issue growing up and having to be more independent because of SA. I honestly never wanted to even live this long, I couldn’t even imagine myself at this point but I’m here and i am still suffering.
+
+And yea I don’t know anyone in person with social anxiety and it makes me feel like I’m suffering alone. But reading other people’s situations/stories about SA has made me realize I’m not completely going through this alone.
+
+Comment from unicorn_eclipse17: I had as feeling I would aswell, I was always the quiet kid in class and people would always point it out to me, I actually dropped out at the end of year 10 it got so bad and I lost all my friends that I had and I don't think they ever cared about me at all probly because I shut them out and never made any effort with plans or anything. I'm so scared to turn 18 this year because I'm going to be expected to do a lot more things on my own and it terrifies me, like I can't even order at cafes or restaurants by myself how am I going to be able to live by myself. I definitely have felt less alone since I joined this subreddit but it still sucks knowing I have no one in real life who I can talk to about this stuff (mostly my fault probly) I am really sorry your going through this aswell I wouldn't wish it on anybody 
+
+Comment from Lathargic_Leo: I can't even go to the store If I want something I am gonna purchase it online and wait 1 month rather than drive 2 minutes down to the nearest store and get that same item. I don't care if its more convenient I feel it's too damn hard.
+
+I used to go but yes I felt like this and it was terrible and I don't want to feel like that again so I just have amazon prime and its a win-win I can get pretty much anything I need within 1-2 days. It's surely not healthy mentally but I am not ready to go to the store again.
+
+Comment from unicorn_eclipse17: I'm really sorry it takes a lot to get myself to go into the shops. I wish you the best of luck I know how hard it is living with this sort of thing it sucks so much.
+
+Comment from Lathargic_Leo: Wish you the best of luck too.
+
+Comment from unicorn_eclipse17: Thank you 
+
+Comment from Mc_Invisible: I do exactly the same... Just leaving the house and being in public causes so much anxiety and discomfort for me and actually going to a store would be so much worse. So I just buy everything online
+
+Comment from nibawaajige: I used to be like this but I've gotten better. I used to not be able to pay for things but now I enjoy malls. For me, the situations I don't like are the ones where there's no one in the store and the workers are hovering over me asking if I need help. Or if I'm in stores that I'm unfamiliar with and require expertise. I'll just do a little research before I go. Most times I feel like I can blend in with a big crowd (but situations differ). I like to use headphones to play music or a podcast to distract me but I'm trying not to rely on it like a crutch.
+
+Comment from Ahren_with_an_h: One of the first things I did was practice just walking around stores. Eye contact came second.
+
+Trigger the feeling and welcome it. Stop telling your body it's a problem and it will start to believe you.
+
+You make as much progress as you put in work.
+
+Comment from coochielicker69420: I’m a 17 year old guy and every time I see a pretty woman while shopping I want to melt into the floor. I haven’t been in a store since last year because someone I used to go to school with works there.
+
+Document 2: 
+Title: Anyone else deathly afraid of eye contact?
+
+Post: Some of my friends with social anxiety are totally chill with eye contact and I just didn’t know if it was just me. The last time I made eye contact for more than 7 seconds I almost had a panic attack so that was fun lmao
+
+Comment from Mc_Invisible: yes i cant even make eye contact with my own family
+
+Comment from ryan_fr: I can only make eye contact with people I’m extremely comfortable with, like my boyfriend. But even then if I think about it too hard I get anxious
+
+Comment from ThatDummGuy: Same here, it sucks
+
+Comment from ThatDummGuy: Yeah I can make eye contact with only like one person
+
+Comment from Manwahik: 7 seconds sounds about long as well, just look a little, then look around a little.
+Don't make it unatural
+
+Comment from shhalahr: Yes. It's too intense.
+
+Comment from TheMountainIII: I was. I dont how it changed, but one day I started looking people in the eye, I say eye and not eyes, because I ALWAYS look people in their right eye only. I never look at the left one. Dont know why.
+
+Comment from Ahren_with_an_h: Fear of eye contact is tied to the core of our anxiety. Working on eye contact and getting better is improving our anxiety as a whole. It's something you can do every day. You can make progress and feel good about yourself working on it every day.
+
+Comment from oversleepandchill: I used to be but now I feel like I stare too long and get awkward with my eyes.
+
+Comment from FlockaTV: I way too often get that awkward eye contact with someone and it looks like the other person is really weirded out by me
+
+Document 3: 
+Title: Going to grocery shopping all by myself but..
+
+Post: I get so self conscious when I shop by myself.Like I always feel like everyone's eyes are on me so I feel nervous when I shop.Then I tend to overthink every single thing--do I look fine? do i look dumb? 
+It's awful and messing with my head--like for god's sake I just want to shop why do i have to overthink!I jus want to step out of my confort zone.How do i calm my nerves other than plugging on my earphones and listening to music? Has some of you have techniques that can help me shift the focus away from overthinking about the people around me? 
+
+Comment from UnhappyComplaint: Same here and it's horrible, it's gotten to the point where the aisle has to be nearly empty for me to pick up anything bc I even feel like I'm being judged for what I'm buying lol. Listening to music is good but something I've been doing lately- and it's really basic obviously- is actually having a grocery list and I try to write it in the order of the aisles that I go down so I'm not going back and forth in the shop. But idk I find that soley focusing on my list and having something to hold and look at really helps me stay focused on actually getting the groceries and distracts me from my paranoia a bit. And I know exactly where I'm going. And it's satisfying. Idk if this helps but either way I wish you all the best and that you can grocery shop in peace!
+
+Comment from Deleted author: I do have a grocery list but never wrote it in order of aisles. That's a good idea, thanks. I find myself roaming a lot in the store, and that makes me conscious 
+
+Comment from ganganggangg: I dont have any techniques for that aspect but I like going at off hours when there are less people! 
+
+Comment from iostefini: haha this is exactly what I came here to suggest! Having a list helps me soooo much because I can hold it and think about what's next instead of thinking about other people. 
+
+Comment from thisMIGHTbeouryear: can we date, because holy shit ifeel exactly the same.
+
+Comment from Sectrav55: This has helped me, but idk if it works for everyone or just me...
+
+I try to tackle it logically. I think about all the people I passed last time in the grocery store, the lady in the bread isle with the red coat, the man by the milk with the funny mustache. How many times have I thought of them since the last time I saw them; once? not even? I have too much shit going on in my own life to think about them constantly. Work, chores, cooking, etc. I literally haven't thought about those people until I tried to remember them.
+
+Then I reverse it. Those people are busy too. They have work, kids, chores, doctors appointments, shopping, etc. The last thing they care about is the person they passed in the bread isle who grabbed the wrong loaf on accident, they're just trying to get their food and get home. True, they might have noticed you, but humans are by nature self-absorbed and by the time they're at the end of the isle their mind is back on their dog with a bad hip or their thesis paper that is due next week.
+
+Don't get me wrong, there are plenty of times where I'm too worked up to think and I just can't focus enough to make this work. But when I'm able to do it, this really helps me.
+
+Comment from STLgeek: I just don't. Last time I was in a grocery store was in Germany (I don't speak German). I was using Schwans (terribly expensive), but I've been using Instacart ever since it became available. They will even leave the food outside.
+
+Your response: 
+[1] Trade
+    [2] Retail Shopping (Document: 1, 3): Discusses experiences and interactions in stores.
+    [2] Eye Contact (Document: 2): Discusses making, avoiding, or managing eye contact during interactions with others.
+
+[Instructions]
+Step 1: Determine PRIMARY and GENERALIZABLE topics mentioned in the documents. 
+- The topics must be generalizable among the provided documents. 
+- Each topic must not be too specific so that it can accommodate future subtopics.
+- Each topic must reflect a SINGLE topic instead of a combination of topics.
+- Each top-level topic must have a level number and a short label. Second-level topics should also include the original documents associated with these topics (separated by commas) as well as a short description of the topic.
+- The number of topics proposed cannot exceed the number of documents provided.
+Step 2: Perform ONE of the following operations: 
+1. If the provided top-level topic is specific enough, DO NOT add any subtopics. Return the provided top-level topic.
+2. If your topic is duplicate or relevant to the provided topics, DO NOT add any subtopics. Return the existing relevant topic. 
+3. If your topic is relevant to and more specific than the provided top-level topic, add your topic as a second-level topic. DO NOT add to the first or third level of the hierarchy. 
+
+[Topic branch]
+{Topic}
+
+[Documents]
+{Document}
+ 
+DO NOT add first- or third-level topics.
+[Your response] 

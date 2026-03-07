@@ -1,0 +1,84 @@
+You will receive a document and a set of top-level topics from a topic hierarchy. The documents consist of a post title, text body, and comments from an online forum (r/socialanxiety on Reddit) where individuals discuss topics related to social anxiety. Your task is to identify generalizable topics within the document that can act as top-level topics in the hierarchy. If any relevant topics are missing from the provided set, please add them. Otherwise, output the existing top-level topics as identified in the document.
+
+[Top-level topics]
+{Topics}
+
+[Examples]
+Example 1: Adding "[1] Medication"
+Document: 
+Title: Scared to take antidepressants(ssri)- what's it like?
+
+Post: I've just bought them for my anxiety but I'm scared to take them since I'd be taking them for a while. How am I gonna be, how will it affect me, it's gonna mess with my brain but I'm so scared. Anxiety just has been unbareable lately that's why I got them. I have this urge to cry but I just can't, will I be able to cry when I'm in them? U just read so many horror stories, idk how it's gonna be once I'm off them. 
+
+Ive went the spirituality route and have been 2 years doing great progress, along with therapy, but I can't handle anxiety anymore. All this "just feel it" stuff "just breath" doesn't work for me. I guess I need to do it every day but still, it's unbareable. Today at uni I couldn't focus bc of of my neausea and anxiety feeling in my stomach. 
+
+Comment from NoMan999: My experience with antidepressant was with depression, not anxiety. There are several classes of antidepressant (you likely have a different one than the ones I took), and several molecules in each of them. It's hard to know how each individual will react exactly to each molecule, so your experience may vary, but searching for the exact molecule/brand you're taking will help know what to expect.
+
+Remember that people post online to complain but rarely do it to tell when things works correctly, so the proportions of what you see online is extremely dramatised.
+
+The first week or two sucks. It's the time it takes for your brain's chemistry to find it's balance. During this time your feelings will be unbalanced, if that makes sense. It can feel worse at times and there are increased risks of suicide (it may be worth explaining it to your friends and family beforehand so they don't freak out if you call them just to have someone to talk to.)
+
+So during the next few weeks, when you feel like shit, just remember it won't last forever, just up to 3 weeks.
+
+After than, you just feel less sad and don't have as many moments where you can't do anything because of how bad you feel. You won't have the urge to cry any more. It's hard to explain, but ideally it makes you feel "normal". 
+
+There is a significant risk after the two weeks you won't like how you feel. Maybe it'll make you feel too happy or too relaxed or something like that. In that case, just talk about it with your doctor and you'll change the dose or try another molecule. Communication with the doc is important (there is the two weeks of unbalance when you stop too, so it's better to talk to the doc about stopping if you were taking a high dose and/or for a long time.)
+
+There is an absurdly low risk things will go crazy wrong (before or after the two weeks), and even then you just have to stop taking the pill in time in most case, so just read what crazy things it can do and don't worry about it, and in the extremely unlikely case you have one of the very bad side effect, stop taking the drug and contact a doctor asap.
+
+Your response: 
+[1] Medication: Mentions the use, effects, or experiences with psychiatric or psychological medication.
+
+Example 2: Duplicate "[1] School", returning the existing topic
+Document: 
+Title: School
+
+Post: I’m at school right now, and really tired. Didn’t get much sleep last night, I stayed up and just watched videos because I didn’t want to go to school. I’m going to have like idk, 3 more presentations, which really really stress me out. I always mess up and repeat some things and have trouble speaking. Also, because my class fucking sucks, everyone is loud and shouting and everything and it stresses me out. I’m really getting anxiety and want to leave so bad. But I have 6 more hours today. And it’s only monday.
+
+Thanks for reading and good luck to anyone who is struggling with the same problem.
+
+Comment from Wantley: Good luck to you to. Just one of those days. You can make it through it, I promise. Sometimes when I feel my anxiety coming on around a group of people, I'll kinda just space out and think about something I really like (for me, it's space. So there's always something fascinating to mull over in my head. Maybe it's bad to withdraw into your mental shell, who am I to say, but it makes me feel a bit better when I feel like I'm about to jump out of my own skin. Just know your not alone. 
+
+Much love to you.
+
+Comment from justathrowawayacc321: Thank you for the kind words! I love spacing out, sometimes I even have a little bit of trouble ”getting back to reality.” Usually it’s just daydreaming, which involves this one girl I like. 
+It’s problematic because sometimes it just feeds the anxiety (I’m anxious around her), but it kinda helps aswell.
+
+Comment from Afuroh: I have a presentashun too. right now. she could call on anyone at any moment any time
+
+Comment from justathrowawayacc321: You’ll get through it, I believe in you! And remember, other people will probably not remember your presentation after it’s done, since they might also be stressed about it, or have to make sure they get a good grade.
+
+Good luck <3
+
+Comment from Afuroh: thanks, good luck too u too. 
+
+Comment from eatwetbread: On school days the time is passing so painfully slow 
+I basically never sleep much because I don't want to go to school and then im tired all the time it's a never ending cycle
+
+Comment from justathrowawayacc321: Yeah, I can relate to that. Yesterday I was on my phone most of the day, and just waited for school to end. I’m writing this in the morning and I’m really tired again, same reason as you.
+
+Best of luck to you <3
+
+Comment from eatwetbread: Thank you I wish you the same
+
+Your response: 
+[1] School: Discusses experiences, interactions, or situations related to educational settings.
+
+[Instructions]
+Step 1: Determine topics mentioned in the document. 
+- The topic labels must be as GENERALIZABLE as possible. They must not be document-specific.
+- The topics must reflect a SINGLE topic instead of a combination of topics.
+- The new topics must have a level number, a short general label, and a topic description. 
+- The topics must be broad enough to accommodate future subtopics. 
+Step 2: Perform ONE of the following operations: 
+1. If there are already duplicates or relevant topics in the hierarchy, output those topics and stop here. 
+2. If the document contains no topic, return "None". 
+3. Otherwise, add your topic as a top-level topic. Stop here and output the added topic(s). DO NOT add any additional levels.
+
+
+[Document]
+{Document}
+
+Please ONLY return the relevant or modified topics at the top level in the hierarchy. Your response should be in the following format:
+[Topic Level] Topic Label: Topic Description
+[Your response]
