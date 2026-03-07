@@ -51,7 +51,7 @@ The LDA implementation produced coherent topics representing broad themes within
 
 The interactive LDAvis visualization shows the relative size of topics, how closely related they are, and the relative frequency of the most commonly occuring words within each topic.
 
-[lda_vis.webm](https://github.com/user-attachments/assets/29a14d5a-fddf-4dce-a9dc-50bc84dd32eb)
+[lda_vis.webm](https://github.com/user-attachments/assets/f082c66f-5168-4310-8718-77e1dee0ece4)
 
 
 # BERTopic
@@ -96,11 +96,12 @@ BERTopic also provided useful analysis tools including representative documents 
 
 ### 90 Topic Model (UMAP)
 
-[BERTopic_Vis_Umap.webm](https://github.com/user-attachments/assets/f9ce6159-3192-48d4-b22a-c90f9773a409)
+[BERTopic_Vis_Umap.webm](https://github.com/user-attachments/assets/1e317803-44c3-4e1d-83ba-79cb8b719b2b)
+
 
 ### 13 Topic Model (K-means)
 
-[BERTopic_Vis_13.webm](https://github.com/user-attachments/assets/c7e09055-d844-4caf-bcd8-29c2e0b8499a)
+[BERTopic_Vis_13.webm](https://github.com/user-attachments/assets/5f22497e-f122-4f75-83a1-e63d1eeeb761)
 
 
 # TopicGPT
@@ -127,6 +128,7 @@ Full topic outputs are available here:
 ## Subtopics: Physical Symptoms
 
 ![TopicGPT Physical Symptoms](results/TopicGPT/physical_symptoms_tree.png)
+
 
 
 
