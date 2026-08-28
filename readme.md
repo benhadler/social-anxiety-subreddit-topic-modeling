@@ -108,7 +108,7 @@ BERTopic also provided useful analysis tools including representative documents 
 
 TopicGPT generated hierarchical topics and subtopics using a prompt based approach with a large language model. Initial runs produced 20 high level topics and approximately 80 subtopics. A subset of 600 documents were analyzed in accordance with author recommendations.
 
-While some generated topics would likely not be considered appropriate for a broad topic, such as anxiety deriving from interactions with authority figures, TopicGPT demonstrated a key advantage in its interpretability due to its generation of topic descriptions. Additionally, it was notably effective at identifying structured subtopics related physical symptoms associated with social anxiety as shown below.
+TopicGPT demonstrated a key advantage in its interpretability due to its generation of topic descriptions. Additionally, it was notably effective at identifying structured subtopics related physical symptoms associated with social anxiety as shown below.
 
 Because TopicGPT relies on large language models, results were sensitive to prompt design and required more computational resources compared to the other approaches.
 
