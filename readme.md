@@ -16,7 +16,7 @@ The models were implemented using Python and compared based on their ability to 
 - LDA successfully identified broad themes such as school, work, treatment, and social interactions but showed variability across runs due to stochastic training.
 - BERTopic produced similar results regarding broad topics and allowed the discovery of smaller subthemes such as rumination, suicidal ideation, and cannabis use discussions.
 - TopicGPT generated hierarchical topic structures including topic labels and descriptions and was particularly effective at identifying physical symptoms of social anxiety.
-- Overall, BERTopic provided the best balance of interpretability, computational efficiency, and ability to explore smaller subthemes within the dataset.
+- Overall, BERTopic provided the best balance of interpretability, computational efficiency and ability to explore both larger and smaller subthemes within the dataset.
 
 # Full Project Writeup
 
